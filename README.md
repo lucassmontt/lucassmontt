@@ -2,7 +2,7 @@
 
 - 💻 Estagiário em Análise de dados na VIVO 
 - 💻 Curso: Sistemas de Informação | Faculdade Estácio
-- 💻 Estudo com foco em ser um futuro Cientista de Dados
+- 💻 Estudo com foco trabalhar na área de dados.
 - 👀 Tenho muito interesse em áreas relacionadas a dados e metodologia Ágil.
 
 ### 👨‍💻 Principais Tecnologias e Ferramentas 🛠
